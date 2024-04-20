@@ -12,7 +12,7 @@ A simple task list web application to help you keep track of your tasks.
 ## Technologies Used
 
 - HTML
-- CSS (Tailwind)
+- CSS (Tailwind CSS)
 - JavaScript
 
 ## Getting Started
@@ -42,4 +42,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 - [Google Fonts](https://fonts.google.com/) for the font used in the project.
 
 ---
-You can customize this template by adding more details about your project, such as additional features, installation instructions, usage examples, screenshots, and any other relevant information. Additionally, you may want to include a section on project structure or architecture if your project is more complex.
