@@ -17,7 +17,7 @@ filter_task.addEventListener('keyup', filterTasks);
 
 // Events Functions
 
-// Retrive tasks from LS
+// Retrieve tasks from LS
 function taskFromLocalStorage() {
     var taskInputValue = text_input.value;
     let tasks;
