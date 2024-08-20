@@ -20,7 +20,7 @@ A simple task list web application to help you keep track of your tasks.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/leonistheczar/codealpha_tasks.git
+    git clone https://github.com/leonistheczar/tasks_list_app.git
     ```
 
 2. Open `index.html` in your web browser.
